@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="playdl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/playdl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

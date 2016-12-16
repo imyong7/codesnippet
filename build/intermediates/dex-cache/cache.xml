@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1696295529974011be8a8e56991fab268cd73650">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8835d855aec94c5de8b2de3235f1476426d7c16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_3b63a17011e77afe737817fed474a0d92a667849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_22e6f9e4544ecb2dac747d8429ad3233d89a4afc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_53549eb6efdc0a8f24eccd9104823e1e215a8183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3fcec93b3a356c9a2163ef32682ca20304e6b34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7b281bb71e8c81f822f405c3f241501eddc626e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_2cb5adbd2469ace81de8ecb13f1f7c594ec643e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_0a5b5bd99e6f5bfa530e396b49762275a7f12d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4efe27c3a6a7482df4f75a6206e5ad67a3f6a56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\imagineers_pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_5305c3cfc32292f7478022d050c54999fdf936f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_af2cb0187d66235b6598365a62683892444ae05b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_c0fe524bbe0c434cadb5501e5e6c8ea8ecc292e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_d36b77819a57256edd3b5278ae030a05b8158370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_948d12f5e84b34af4f356e4605364072406e0dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_253743cc3d51bd332617c668f89e6d4d85baa187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_13e116887ec7fff243aa512266d0111d13ead7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_204f109bc78b1e81defcc24c7bd207fb84765069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f3fd12408239ed50db2e60a663697f97b7fb18b">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\instant-run_66b9f5b0a8afa3b25930238b14bb1f9fc706824d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_c72126c1438fe8d12880c0e4584c4ca3c99e05e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_49a7a6fef8ab4fc64dddd42a4ab19a34fe3e8dd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016_product\codesnippet\app\libs\playdl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="566c01ca766cccec7dd153f1db1f7643191d241d">
+        <dex dex="E:\2016_product\codesnippet\app\build\intermediates\pre-dexed\debug\playdl_89fd9cd0fa43682d34124a47026fb795082ddcf2.jar" />
+    </item>
+
+</items>
